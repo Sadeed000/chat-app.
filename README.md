@@ -12,7 +12,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 **Database:** Mongo DB
   
 ## Demo
-
+https://talk-a-tive-4uqi.onrender.com/
 
 ![](https://github.com/Sadeed000/chat-app./blob/main/screenshots/group%20%2B%20notif.PNG)
 
@@ -72,10 +72,6 @@ Start the Client
 ![](https://github.com/Sadeed000/chat-app./blob/main/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
 ![](https://github.com/Sadeed000/chat-app./blob/main/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
-## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
 
   
